@@ -1,0 +1,1 @@
+import{L as o,b as t,e as n,f as e}from"./index-0650b16c.js";const s={},_={class:"not-found container"},c=e("h1",null,"404",-1),a=e("h2",null,"Page is not found..",-1),d=[c,a];function r(i,l){return t(),n("div",_,d)}const f=o(s,[["render",r]]);export{f as default};
